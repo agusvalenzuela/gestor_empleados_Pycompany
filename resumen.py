@@ -5,7 +5,4 @@ def mostrar_resumen(nombre, edad, cargo, total):
     print("Nombre:", nombre)
     print("Edad:", edad)
     print("Cargo:", cargo)
-    print("Sueldo total con bono: S/.", total)
-
-
-
+    print("Sueldo total con bono: $ ", total)
